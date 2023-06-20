@@ -1,6 +1,6 @@
 {
   "name": "@paindrainer/tfjs-react-native",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "TensorFlow.js platform implementation for React Native",
   "main": "dist/index.js",
   "repository": {
@@ -46,7 +46,6 @@
     "@types/react-native": "0.71.3",
     "clang-format": "~1.8.0",
     "expo-asset": "^8.7.0",
-    "expo-camera": "^13.1.0",
     "expo-gl": "^12.0.1",
     "gts": "^3.1.1",
     "react": "^18.2.0",
@@ -72,7 +71,6 @@
     "@tensorflow/tfjs-backend-webgl": "~3.7.0",
     "@tensorflow/tfjs-core": "~3.7.0",
     "expo-asset": "^7.0.0",
-    "expo-camera": "^7.0.0",
     "expo-gl": "^7.0.0",
     "react": "^16.12.0",
     "react-native": ">= 0.58.0",
